@@ -38,7 +38,7 @@ const questions = [
     },
 
     {   type: "input",
-        name: "credit",
+        name: "credits",
         message: "Enter any credits for project.",
     },
 

@@ -4,6 +4,7 @@
 
 * [Objective](#Objective)
 * [Description](#Description)
+* [Installation](#Installation)
 * [Usage](#usage)
 * [Credits](#credits)
 
@@ -13,20 +14,18 @@
  
  ## Description
  
- [GitHub](https://github.com/mbostwick1/my-daily-planner)
+ [GitHub](https://github.com/mbostwick1/Mel-READMe-Generator)
+  
+ - This README generator makes it much easier and more efficient to create the .md file once completing a project.
  
- [Live URL](https://mbostwick1.github.io/my-daily-planner/)
- 
- - This workday calendar allows the user to input their to-do list into the description area next to each hour and save the information. Each time block is color coded depending on the current hour to show past, present, and future.
+  ## Installation
+
+- Use node index.js in terminal and follow prompted questions to generate README.md.
 
  ## Usage
 
-![Planner Demo](x_usage/PlannerDemo.gif)
+![README Demo](Demo.gif)
 
 ## Credits
-[Bootstrap](https://getbootstrap.com/docs/4.5/components/)
-[FontAwesome Icons](https://fontawesome.com/icons/save)
-[Stack Overflow Forums](https://stackoverflow.com/)
-[W3 Schools JS](https://www.w3schools.com/js/)
-[MDN web docs](https://developer.mozilla.org/en-US/)
+N/A
 
