@@ -24,7 +24,7 @@
 
  ## Usage
 
-![README Demo](Demo.gif)
+![README Demo](demo.gif)
 
 ## Credits
 N/A
